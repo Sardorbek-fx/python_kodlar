@@ -1,0 +1,1 @@
+print("Otam: 		uchuvchi\nOnam: 		uy bekasi\nO'zim: 		olim")
